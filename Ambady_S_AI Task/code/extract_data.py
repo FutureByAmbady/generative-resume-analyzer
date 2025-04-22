@@ -229,3 +229,5 @@ def process_resumes(input_folder, output_file):
 input_folder = r"C:\Users\ambad\OneDrive\Documents\AI Projects\Ambady_S_AI Task\resumes"
 output_file = r"C:\Users\ambad\OneDrive\Documents\AI Projects\Ambady_S_AI Task\output\resumes_info.xlsx"
 process_resumes(input_folder, output_file)
+
+#demo!
